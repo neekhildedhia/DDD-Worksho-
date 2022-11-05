@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Personal\\DDD_Training\\Sample_Code_1\\Sample_Code_1.csproj": {}
+  },
+  "projects": {
+    "D:\\Personal\\DDD_Training\\Sample_Code_1\\Sample_Code_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\DDD_Training\\Sample_Code_1\\Sample_Code_1.csproj",
+        "projectName": "Sample_Code_1",
+        "projectPath": "D:\\Personal\\DDD_Training\\Sample_Code_1\\Sample_Code_1.csproj",
+        "packagesPath": "C:\\Users\\neekhil.dedhia\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\DDD_Training\\Sample_Code_1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\neekhil.dedhia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apdcommunications/9d4aac78-19bb-4093-b712-ae2eb6145261/_packaging/APD-Common/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apdcommunications/LTE/_packaging/LTE-Feed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apdcommunications/_packaging/ApdNuget_Feed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
