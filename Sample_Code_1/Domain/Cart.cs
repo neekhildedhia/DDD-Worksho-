@@ -22,9 +22,7 @@ namespace Sample_Code_1.Domain
 
         public override string ToString()
         {
-            return "Cart{" +
-                    "products=" + products +
-                    '}';
+            return $"Cart<products={string.Join(",", products)}>";
         }
     }
 }
