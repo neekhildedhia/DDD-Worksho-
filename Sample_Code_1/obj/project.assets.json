@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\DDD_Training\\Sample_Code_1\\Sample_Code_1.csproj",
+      "projectUniqueName": "D:\\Personal\\DDD_Training\\neekhildedhia\\DDD-Workshop\\Sample_Code_1\\Sample_Code_1.csproj",
       "projectName": "Sample_Code_1",
-      "projectPath": "D:\\Personal\\DDD_Training\\Sample_Code_1\\Sample_Code_1.csproj",
+      "projectPath": "D:\\Personal\\DDD_Training\\neekhildedhia\\DDD-Workshop\\Sample_Code_1\\Sample_Code_1.csproj",
       "packagesPath": "C:\\Users\\neekhil.dedhia\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\DDD_Training\\Sample_Code_1\\obj\\",
+      "outputPath": "D:\\Personal\\DDD_Training\\neekhildedhia\\DDD-Workshop\\Sample_Code_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\neekhil.dedhia\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5,12 +5,16 @@ namespace Sample_Code_1.Domain
     public class Product
     {
         private string name;
-        private int quantity;
 
-        public Product(String name, int quantity = 1)
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        public Product(String name)
         {
             this.name = name;
-            this.quantity = quantity;
         }
 
         public string getName()
@@ -20,7 +24,7 @@ namespace Sample_Code_1.Domain
 
         public override string ToString()
         {
-            return $"Product<name={name}, quantity={quantity}>";
+            return $"Product<name={name}>";
         }
     }
 }
